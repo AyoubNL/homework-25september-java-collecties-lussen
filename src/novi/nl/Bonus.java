@@ -1,3 +1,5 @@
+package novi.nl;
+
 import java.util.HashSet;
 import java.util.Objects;
 import java.util.Scanner;
@@ -9,11 +11,11 @@ public class Bonus {
         // Onderstaande code is uitgecommentarieerd. Haal de code uit de comment (delete /* en */) om aan de slag te gaan met de bonus
         // In de code staan op verschillende plekken comments tussen "/*...*/" als hint wat je moet doen
 
-
-        HashSet<Integer> secretnumber = randomnumbergenerator();
-        String stringnumber = setToStringConverter(secretnumber);
-        System.out.println(stringnumber);
-        feedback(/*vul hier het juiste argument in*/);
+//
+//        HashSet<Integer> secretnumber = randomnumbergenerator();
+//        String stringnumber = setToStringConverter(secretnumber);
+//        System.out.println(stringnumber);
+//        feedback(/*vul hier het juiste argument in*/);
 
     }
 
